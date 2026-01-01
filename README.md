@@ -59,11 +59,32 @@ This project was developed as part of **IT2010 – Mobile Application Developmen
 
 ## 📸 Screenshots
 
-> Add screenshots of:
-- Dashboard  
-- Add Transaction screen  
-- Category Summary  
-- Budget Alert  
-- PIN Lock & Settings  
+<table>
+  <tr>
+    <th>Launch Screen</th>
+    <th>Onboarding Screen 1</th>
+    <th>Onboarding Screen 2</th>
+    <th>Onboarding Screen 3</th>
+    <th>Pin Unlock</th>
+    <th>Dashboard</th>
+    <th>Budget Alert</th>
+    <th>Summary</th>
+    <th>Add Transcation</th>
+    <th>Settings</th>
+  </tr>
+  <tr>
+    <td><img src="Screen shots/Launch Screen.png" width="200"/></td>
+    <td><img src="Screen shots/Onboardingscreen 1.png" width="200"/></td>
+    <td><img src="Screen shots/Onboardingscreen 2.png" width="200"/></td>
+    <td><img src="Screen shots/Onboardingscreen 3.png" width="200"/></td>
+    <td><img src="Screen shots/Pin unlock.png" width="200"/></td>
+    <td><img src="Screen shots/Dashboard.png" width="200"/></td>
+    <td><img src="Screen shots/Budget Alert.png" width="200"/></td>
+    <td><img src="Screen shots/Summary.png" width="200"/></td>
+    <td><img src="Screen shots/Add transaction.png" width="200"/></td>
+    <td><img src="Screen shots/Settings.png" width="200"/></td>
+  </tr>
+</table>
+  
 
 
